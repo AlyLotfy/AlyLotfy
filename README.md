@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aly Lotfy 👋</h1>
+<h1 align="center">Hi, I'm Aly Lotfy </h1>
 
 <p align="center">
   <em>AI/ML Engineer · Computer Engineering @ AAST '26 · Alexandria, Egypt</em>
@@ -22,9 +22,9 @@ Outside the thesis I work across the ML stack: classical models (LightGBM, Rando
 
 ## What I'm Working On
 
-🔬 **Pepper Medical Assistance Robot** — Bilingual humanoid hospital receptionist (graduation project)
-📊 **Hospital Revenue Prediction** — Forecasting realized revenue from clinic workload data
-🧠 **Always learning** — Currently going deeper on transformers, diffusion models, and LLM agent design
+ **Pepper Medical Assistance Robot** — Bilingual humanoid hospital receptionist (graduation project)
+ **Hospital Revenue Prediction** — Forecasting realized revenue from clinic workload data
+ **Always learning** — Currently going deeper on transformers, diffusion models, and LLM agent design
 
 ---
 
