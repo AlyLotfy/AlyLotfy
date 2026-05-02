@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Aly Lotfy </h1>
 
 <p align="center">
-  <em>AI/ML Engineer · Computer Engineering @ AAST '26 · Alexandria, Egypt</em>
+ <em>AI/ML Engineer · Artificial Intelligence @ AAST '26 · Alexandria, Egypt</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/AlyLotfy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:axylxtfy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/AlyLotfy"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+ <a href="https://www.linkedin.com/in/AlyLotfy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="mailto:axylxtfy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+ <a href="https://github.com/AlyLotfy"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -81,8 +81,8 @@ Outside the thesis I work across the ML stack: classical models (LightGBM, Rando
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlyLotfy&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyLotfy&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=AlyLotfy&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyLotfy&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ Outside the thesis I work across the ML stack: classical models (LightGBM, Rando
 
 I'm currently looking for **ML / AI Engineer roles** (full-time, internship, or research) starting summer 2026. If you're hiring or just want to chat about applied AI, robotics, or LLM agents — drop me a line.
 
-📧 **axylxtfy@gmail.com** ‼ 🔼 [LinkedIn](https://www.linkedin.com/in/AlyLotfy) ‼ 🌍 Alexandria, Egypt
+ **axylxtfy@gmail.com** · [LinkedIn](https://www.linkedin.com/in/AlyLotfy) · Alexandria, Egypt
 
 <!--
 Note for Aly:
